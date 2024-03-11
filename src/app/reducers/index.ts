@@ -13,7 +13,7 @@ export interface State {
 }
 
 export const reducers: ActionReducerMap<State> = {
-  book:BookReducer
+  books:BookReducer
 
 };
 
